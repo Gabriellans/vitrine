@@ -1,20 +1,33 @@
-sobre:
-carlos_eduardo
-37_anos_moro_sozinho_trabalho_e_estudo
-como_trabalho:
-funcionario_publico
-experiencia:
-19_anos_na_area_de_alimentacao
-comunidade:
-apoio_casa_de_recuperacao
+<!DOCTYPE html>
+  <html>
+     <head>
+     <title>Curriculo</title>
+     <meta charset="utf-8">
+     <link rel="stylesheet" href="estilos/site.css">
+     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family==Crimson+Text:400,400italic,
+     <link rel="stylesheet" href="http://fonts.googleapis.com
+     </head/>
+        <body>
+        <h1>Sobre:</h1>
+        <p>carlos_eduardo</>
+        <p>37_anos_moro_sozinho_trabalho_e_estudo</>
+        <h2>como_trabalho:</h2>
+        <p>funcionario_publico</p>
+        <h2>experiencia:</h2>
+        <p>19_anos_na_area_de_alimentacao</p>
+        <h2>comunidade:</h2>
+        <p>apoio_casa_de_recuperacao</p>
 
-sobre:
-gabriel_vinicius
-16_anos_moro_com_meus_pais_estudante
-como_trabalho:
-estudante_sistemas
-experiencia:
-gestor_de_relacionameno_em_RA_multimarcas
-comunidade:
-apoio_religioso
-trabalhos_solidarios_com_desabrigados
+        <h2>sobre:</h2>
+        <p>gabriel_vinicius</p>
+        <p>16_anos_moro_com_meus_pais_estudante</p>
+        <h2>como_trabalho:</h2>
+        <p>estudante_sistemas</p>
+        <h2>experiencia:</h2>
+        <p>gestor_de_relacionameno_em_RA_multimarcas</p>
+        <h2>comunidade:</h2>
+        <p>apoio_religioso</p>
+        <p>trabalhos_solidarios_com_desabrigados</p>
+       </body>
+   </html>
+
